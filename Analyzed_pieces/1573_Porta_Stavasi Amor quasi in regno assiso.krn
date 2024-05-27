@@ -1,0 +1,641 @@
+!!!COM: Porta, Costanzo
+!!!CDT:
+!!!PTL: Il terzo libro de madrigali a cinque voci
+!!!PPP: Venice
+!!!PPR: Heirs of Gardano
+!!!PDT: 1573
+!!!PUB-format:
+!!!RISM: P 5189
+!!!rime: 38
+!!!OTL: Stavasi Amor quasi in regno assiso
+!!!AGN: Madrigal
+!!!SCT: Trm0038a
+!!!SCA: Trm0038a
+!!!original-voices: 5
+!!!extant-voices: 5
+!!!complete: Y
+!!!final: (A)E
+**kern	**bdata-Cadences	**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*color:blue	*I"Quinto	*	*I"Tenore	*	*I"Alto	*	*I"Canto	*
+*I'B	*	*I'V	*	*I'T	*	*I'A	*	*I'C	*
+*oclefF4	*	*oclefC4	*	*oclefC4	*	*oclefC3	*	*oclefC1	*
+*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
+*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!!LO:TX:a:t=Prima Parte.
+0r	.	1r	.	1r	.	1r	.	2e	Sta-
+.	.	.	.	.	.	.	.	4e	-va-
+.	.	.	.	.	.	.	.	4e	-si A-
+.	.	2B	Sta-	2E	Sta-	2r	.	1g	-mor
+.	.	4B	-va-	4E	-va-	2e	Sta-	.	.
+.	.	4c	-si A-	4E	-si A-	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+0r	.	2B	-mor	2G	-mor	4d	-va-	2r	.
+.	.	.	.	.	.	4e	-si A-	.	.
+.	.	2e	qua-	2A	qua-	2c	-mor	1cc	qua-
+.	.	2e	-si in	2E	-si in	2g	qua-	.	.
+.	.	2d	suo	2G	suo	2g	-si in	2b	-si in
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+0r	.	2c	re-	2A	re-	4f	suo	2cc	suo
+.	.	.	.	.	.	2e	re-	.	.
+.	.	2G	-gn'as-	2B	-gn'as-	.	.	2b	re-
+.	.	.	.	.	.	4d	-gn'as-	.	.
+.	.	1A	-si-	1c	-si-	4c	-si-	2e	-gn'as-
+.	.	.	.	.	.	8BL	.	.	.
+.	.	.	.	.	.	8AJ	.	.	.
+.	.	.	.	.	.	2e	.	[2a	-si-
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+0r	.	1E	-so,	1B	-so,	2e	-so,	2a]	.
+.	.	.	.	.	.	2r	.	2g#X	-so,
+.	Abandoned Authentic	1r	.	2A	Sta-	2e	Sta-	2r	.
+.	.	.	.	4A	-va-	4e	-va-	2a	Sta-
+.	.	.	.	4A	-si A-	4f	-si A-	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+2AA	.	2r	.	1c	-mor,	2e	-mor	4a	-va-
+.	.	.	.	.	.	.	.	4a	-si A-
+4AA	.	2A	Sta-	.	.	2e	qua-	2cc	-mor
+4AA	.	.	.	.	.	.	.	.	.
+2C	.	4G	-va-	1r	.	2e	-si in	2cc	qua-
+.	.	4A	-si A-	.	.	.	.	.	.
+2D	.	2F	-mor	.	.	2d	suo	2a	-si in
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+2AA	.	2E	qua-	0r	.	4.c	re-	2a	suo
+.	.	.	.	.	.	8dL	.	.	.
+2C	.	4E	-si in	.	.	8e	.	2g	re-
+.	.	.	.	.	.	8f	.	.	.
+.	.	4E	suo	.	.	8g	.	.	.
+.	.	.	.	.	.	8eJ	.	.	.
+2D	.	2A	re-	.	.	2f#X	.	2dd	-gn'as-
+2E	.	2G	-gn'as-	.	.	2g	-gn'as-	[2b	-si-
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+1A	.	1c	-si-	1r	.	1e	-si-	4b]	.
+.	.	.	.	.	.	.	.	8aL	.
+.	.	.	.	.	.	.	.	8gJ	.
+.	.	.	.	.	.	.	.	2a	.
+2E	Phrygian Clausula Vera (to B)	1B	-so	2r	.	2g	-so	2b	-so
+4.G	.	.	.	4.d	Nel	4r	.	4r	.
+.	.	.	.	.	.	[4g	Nel	[4b	Nel
+8G	.	.	.	8d	se-	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+4G	.	0r	.	4d	-ren	8g]	.	8b]	.
+.	.	.	.	.	.	8g	se-	8b	se-
+4C	.	.	.	4e	da	4g	-ren	4cc	-ren
+4D	.	.	.	4d	due	4f	da	4a	da
+2E	.	.	.	2B	lu-	4e	due	4g	due
+.	.	.	.	.	.	4g	lu-	4e	lu-
+4C	.	.	.	4c	-ci ar-	4g	-ci ar-	4e	-ci ar-
+4F	.	.	.	4A	-den-	4f	-den-	4c	-den-
+4C	.	.	.	4G	-ti et	4e	-ti et	4cc	-ti et
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+2D	.	2r	.	2d	al-	2f	al-	2a	al-
+4E	.	4r	.	4B	-me,	2e	-me,	4g#X	-me,
+4.AA	Suspensionless Authentic	4e	Mil-	4.c	Mil-	.	.	4.a	Mil-
+.	.	4e	-le	.	.	1r	.	.	.
+8AA	.	.	.	8c	-le	.	.	8e	-le
+4AA	.	4e	vit-	4c	vit-	.	.	4a	vit-
+4C	.	4e	-tri-	4c	-tri-	.	.	4gnXi	-tri-
+4GG	.	4d	-ci in-	4B	-ci in-	.	.	4g	-ci in-
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+2AA	.	2c	-se-	2A	-se-	2r	.	2e	-se-
+4GG	.	4d	-gne e	2B	-gne,	4r	.	2g	-gne,
+2G	.	2B	mil-	.	.	4.d	Mil-	.	.
+.	.	.	.	1r	.	.	.	1r	.
+.	.	.	.	.	.	8d	-le	.	.
+4G	.	4B	-le	.	.	4d	vit-	.	.
+2F	.	2A	pal-	.	.	4f	-tri-	.	.
+.	.	.	.	.	.	4c	-ci in-	.	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+2E	.	4B	-me,	2G	Mil-	2e	-se-	1r	.
+.	.	4.B	Mil-	.	.	.	.	.	.
+4r	.	.	.	4G	-le	4d	-gne e	.	.
+.	.	8B	-le	.	.	.	.	.	.
+4.C	.	4e	vit-	4G	vit-	2g	mil-	.	.
+.	.	2e	-tri-	4c	-tri-	.	.	2r	.
+8C	.	.	.	.	.	.	.	.	.
+4C	.	.	.	4G	-ci in-	4g	-le	.	.
+4F	.	4c	-ci in-	[2A	-se-	2f	pal-	4r	.
+4D	.	[4d	-se-	.	.	.	.	[4a	Mil-
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+2A	.	4d]	.	2A]	.	1e	-me	8a]	.
+.	.	.	.	.	.	.	.	8a	-le
+.	.	4c	-gne e	.	.	.	.	4e	vit-
+4E	Evaded Authentic	2B	mil-	2B	-gne e	.	.	2g	-tri-
+2G	.	.	.	.	.	.	.	.	.
+.	.	4d	-le	4B	mil-	1r	.	2g	-ci in-
+4G	.	2e	pal-	4B	-le	.	.	.	.
+2F	.	.	.	4c	pal-	.	.	[2a	-se-
+.	.	4d	-me	8BL	.	.	.	.	.
+.	.	.	.	8AJ	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+2E	.	2.e	Tri-	2B	.	0r	.	4a]	.
+.	(G#?)	.	.	.	.	.	.	4g	-gne e
+2.AA	Evaded Authentic	.	.	2A	-me	.	.	4cc	mil-
+.	.	4e	-on-	.	.	.	.	4cc	-le
+.	.	2e	-fa-	2E	Tri-	.	.	2b	pal-
+4GG#X	.	.	.	.	.	.	.	.	.
+2AA	Evaded Clausula Vera	4c	-li	4E	-on-	.	.	4cc	-me
+.	.	4c	spie-	[4e	-fa-	.	.	[4a	Tri-
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+2E	.	2B	-gan-	4e]	.	2r	.	4a]	.
+.	.	.	.	4B	-li	.	.	4g#i	-on-
+2AA	Authentic	2A	-do	2c	spie-	2e	spie-	2.a	-fa-
+1D	.	1r	.	2.A	-gan-	[1f	-gan-	.	.
+.	.	.	.	.	.	.	.	4a	-li
+.	.	.	.	.	.	.	.	2a	spie-
+.	.	.	.	8GL	.	.	.	.	.
+.	.	.	.	8FJ	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+1C	.	2r	.	2.G	.	2f]	.	2cc	-gan-
+.	.	2c	en-	.	.	2e	-do en-	2g	-do en-
+.	.	.	.	4E	-do en-	.	.	.	.
+1r	Evaded Authentic	4A	-tr'il	4F	-tr'il	4d	-tr'il	4a	-tr'il
+.	.	4B	bel	4E	bel	2e	bel	4g	bel
+.	.	2c	vi-	2A	vi-	.	.	4.e	vi-
+.	.	.	.	.	.	[4c	vi-	.	.
+.	.	.	.	.	.	.	.	8f	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+2r	.	2d	-so;	1G	-so;	4c]	.	2g	.
+.	.	.	.	.	.	4B	.	.	.
+4C	Voice Transfer Authentic	2e	Quan-	.	.	2c	-so;	2g	-so;
+8C	.	.	.	.	.	.	.	.	.
+8C	.	.	.	.	.	.	.	.	.
+4D	.	4f	-do	1r	.	1r	.	2r	.
+4E	.	4e	ri-	.	.	.	.	.	.
+4F	.	[2c	-vol-	.	.	.	.	4a	Quan-
+4F	.	.	.	.	.	.	.	8a	-do
+.	.	.	.	.	.	.	.	8a	ri-
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+4E	.	4c]	.	1r	.	2r	.	4g	-vol-
+4D	.	4d	-to a	.	.	.	.	4f	-to a
+2.A	.	2e	me,	.	.	4c	Quan-	4e	me
+.	.	.	.	.	.	8c	-do	4e	ch'in-
+.	.	.	.	.	.	8c	ri-	.	.
+.	.	1r	.	2r	.	4d	-vol-	4f	-ten-
+4G	.	.	.	.	.	4e	-to a	4g	-to e
+2F	.	.	.	4A	Quan-	2f	me,	2c	fi-
+.	.	.	.	8A	-do	.	.	.	.
+.	.	.	.	8A	ri-	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+2BB-X	.	2r	.	4G	-vol-	2r	.	2d	-so,
+.	.	.	.	4F	-to a	.	.	.	.
+2C	.	4G	Quan-	4E	me,	4r	.	4c	ch'in-
+.	.	8G	-do	4E	ch'in-	4e	ch'in-	2cc	-ten-
+.	.	8G	ri-	.	.	.	.	.	.
+1r	.	4A	vol-	4F	-ten-	4d	-ten-	.	.
+.	.	4B	-to a	4G	-to e	4d	-to e	4b	-to e
+.	Evaded Clausula Vera	4c	me,	2C	fi-	2e	fi-	8aL	fi-
+.	.	.	.	.	.	.	.	8gJ	.
+.	.	4c	ch'in-	.	.	.	.	[4g	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+1r	.	4B	ten-	2D	-so	4d	-so	4g]	.
+.	.	4A	-to e	.	.	4d	Mi-	4f#i	-so
+.	Evaded Authentic	2e	fi-	2E	Mi-	1c	-ra-	2g	Mi-
+2r	.	2d	-so	[1G	-ra-	.	.	1g	-ra-
+2GG	.	2d	Mi-	.	.	2B	-va	.	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+2.C	Authentic	[0e	-ra-	1G]	.	2c	le	2e	-va
+.	.	.	.	.	.	2c	sue	2.g	le
+4D	.	.	.	.	.	.	.	.	.
+4E	.	.	.	1G	-va	1B	ric-	.	.
+4F	.	.	.	.	.	.	.	4a	sue
+4G	.	.	.	.	.	.	.	4b	ric-
+4E	.	.	.	.	.	.	.	4b	-che al-
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+2A	.	1e]	.	0r	.	2A	-che,	2cc	-te-
+2G	.	.	.	.	.	4r	.	2b	-re
+.	.	.	.	.	.	4B	Mi-	.	.
+1F	.	1A	-va,	.	.	2.c	-ra-	1a	sal-
+.	.	.	.	.	.	4d	-va	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+1E	.	1r	.	2r	.	4e	le	2g	-me,
+.	.	.	.	.	.	4f	sue	.	.
+.	.	.	.	2C	Mi-	4g	ric-	4r	.
+.	.	.	.	.	.	4e	-che al-	4g	Mi-
+1r	.	2r	.	2F	-ra-	2a	-te-	2.f	-ra-
+.	.	2C	Mi-	2G	-va	2g	-re	.	.
+.	.	.	.	.	.	.	.	4e	-va
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+1r	Evaded Authentic	2.F	-ra-	2A	le	1f	sal-	4c	le
+.	.	.	.	.	.	.	.	4cc	sue
+.	.	.	.	2c	sue	.	.	2a	ric-
+.	.	4G	-va	.	.	.	.	.	.
+2r	.	4A	le	2.c	ric-	1e	-me,	2a	-che al-
+.	.	4B	sue	.	.	.	.	.	.
+4r	.	4c	ric-	.	.	.	.	2g	-te-
+4E	.	4G	-che al-	4B	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+2A	.	2c	-te-	2A	.	0r	.	2f	-re
+2G	.	2B	-re	2B	-che al-	.	.	2.e	sal-
+1F	.	[1A	sal-	2c	-te-	.	.	.	.
+.	.	.	.	.	.	.	.	8dL	.
+.	.	.	.	.	.	.	.	8cJ	.
+.	.	.	.	2A	-re	.	.	2d	.
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+1E	Phrygian Clausula Vera	2A]	.	2B	sal-	1r	.	0e	-me,
+.	.	2G#i	-me,	2B	-me,	.	.	.	.
+[1C	Evaded Authentic (Double)	[1E	Dis-	1r	.	[1g	Dis-	.	.
+=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
+1C]	.	1E]	.	1c	Dis-	1g]	.	2r	.
+.	.	.	.	.	.	.	.	1cc	Dis-
+1GG	.	1D	-se:	1d	-se:	1g	-se:	.	.
+.	.	.	.	.	.	.	.	2b	-se:
+=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
+0r	Evaded Authentic	4.d	can-	0r	.	4.f	can-	4.a	can-
+.	.	8d	-te-	.	.	8f	-te-	8a	-te-
+.	.	4c	-rai	.	.	4e	-rai	4a	-rai
+.	.	2d	tu	.	.	2f	tu	4a	tu
+.	.	.	.	.	.	.	.	4b	co-
+.	.	4A	co-	.	.	4e	co-	4cc	-me
+.	.	4c	-me	.	.	4e	-me	4cc	tan-
+.	.	4d	tan-	.	.	4f	tan-	[4a	t'al-
+=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
+1r	.	2B-X	t'al-	1r	.	2d	t'al-	4a]	.
+.	.	.	.	.	.	.	.	4g	.
+.	Phrygian Clausula Vera	2A	-me	.	.	4e	-me,	2a	-me
+.	.	.	.	.	.	4.e	can-	.	.
+4.A	.	1r	.	4.c	can-	.	.	1r	.
+.	.	.	.	.	.	8e	-te-	.	.
+.	.	.	.	.	.	4f	-rai	.	.
+8A	.	.	.	8c	-te-	.	.	.	.
+4G#X	.	.	.	4B	-rai	4e	tu	.	.
+[4A	.	.	.	[4c	tu	4e	co-	.	.
+=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
+4A]	.	0r	.	4c]	.	4f	-me	0r	.
+4E	.	.	.	4B	co-	2g	tan-	.	.
+4G	.	.	.	4B	-me	.	.	.	.
+4A	.	.	.	4c	tan-	2e	t'al-	.	.
+2F	.	.	.	2A	t'al-	.	.	.	.
+.	.	.	.	.	.	4d	.	.	.
+2E	Phrygian Clausula Vera	.	.	2B	-me	2e	-me	.	.
+=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
+2D	.	2A	Hab-	2d	Hab-	4r	.	1r	.
+.	.	.	.	.	.	4f	Hab-	.	.
+4D	.	4A	-bi e	4d	-bi e	4f	-bi e	.	.
+4D	.	4A	te	4d	te	4f	te	.	.
+2AA	(Circle of...	2A	stes-	2c#X	stes-	2e	stes-	2a	Hab-
+2D	.	2F#X	-so an-	2d	-so an-	2d	-so an-	4a	-bi e
+.	.	.	.	.	.	.	.	4a	te
+=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
+2GG	.	1G	-cor	2B	-cor	2d	-cor	2b	stes-
+1C	...fifths)	.	.	1G	vin-	1e	vin-	2cc	-so an-
+.	.	1E	vin-	.	.	.	.	2g	-cor
+2AA	.	.	.	2A	-to e	2c	-to e	4r	.
+.	.	.	.	.	.	.	.	[4cc	vin-
+=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
+1AA	.	2E	-to e	1c	con-	2A	con-	4cc]	.
+.	.	.	.	.	.	.	.	4cc	-to e
+.	.	2E	con-	.	.	2.e	qui-	2a	con-
+1D	.	1F	-qui-	1A	-qui-	.	.	1a	-qui-
+.	.	.	.	.	.	8dL	.	.	.
+.	.	.	.	.	.	8cJ	.	.	.
+.	.	.	.	.	.	2d	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
+0AAl	Evaded Phrygian/Realized Plagal	0El	-so.	0Al	-so.	0c#Xl	-so.	0al	-so.
+=34||	=34||	=34||	=34||	=34||	=34||	=34||	=34||	=34||	=34||
+!!LO:TX:a:t=Seconda Parte.
+0r	(Long Imitative stretch with almost no cadences)	0r	.	0r	.	0r	.	1a	Né
+.	.	.	.	.	.	.	.	2g	tua
+.	.	.	.	.	.	.	.	2a	ce-
+=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
+0r	.	0r	.	1A	Né	0r	.	4cc	-tra
+.	.	.	.	.	.	.	.	4cc	so-
+.	.	.	.	.	.	.	.	4cc	-nar
+.	.	.	.	.	.	.	.	4a	l'ar-
+.	.	.	.	2G	tua	.	.	4b	-me
+.	.	.	.	.	.	.	.	4b	di
+.	.	.	.	2A	ce-	.	.	2cc	Mar-
+=36	=36	=36	=36	=36	=36	=36	=36	=36	=36
+0r	.	0r	.	4c	-tra	1e	Né	4g	-te
+.	.	.	.	4c	so-	.	.	4e	Più
+.	.	.	.	4c	nar	.	.	4a	s'o-
+.	.	.	.	4A	l'ar-	.	.	4cc	-da ho-
+.	.	.	.	4B	-me	2d	tua	4b	-mai,
+.	.	.	.	4B	di	.	.	4g	Né
+.	.	.	.	2c	Mar-	2e	ce-	4g	tua
+.	.	.	.	.	.	.	.	4a	ce-
+=37	=37	=37	=37	=37	=37	=37	=37	=37	=37
+1E	.	0r	.	2G	-te	4g	-tra	4b	-tra
+.	.	.	.	.	.	4g	so-	4cc	so-
+.	.	.	.	4r	.	4g	-nar	2b	-nar
+.	.	.	.	4G	Più	4e	l'ar-	.	.
+2D	.	.	.	4A	s'o-	4f#X	-me	2dd	l'ar-
+.	.	.	.	4A	-da ho-	4f#i	di	.	.
+2E	.	.	.	2c	-mai,	2g	Mar-	4cc	-me
+.	.	.	.	.	.	.	.	4g	di
+=38	=38	=38	=38	=38	=38	=38	=38	=38	=38
+4F	.	2A	Più	2r	.	2c	-te	2a	Mar-
+4F	.	.	.	.	.	.	.	.	.
+4F	.	4d	s'o-	4r	.	4r	.	2a	-te
+4D	.	4f	-da ho-	2A	Né	4d	Più	.	.
+4E	.	2e	-mai,	.	.	4c	s'o-	2r	.
+4E	.	.	.	4G#i	tua	4B	-da ho-	.	.
+2F	Evaded Authentic	2r	.	2A	ce-	4A	-mai,	4r	.
+.	.	.	.	.	.	[4c	Né	4a	Più
+=39	=39	=39	=39	=39	=39	=39	=39	=39	=39
+4C	.	2r	.	4e	-tra	4c]	.	4g	s'o-
+4AA	.	.	.	4e	so-	4c	tua	4a	-da ho-
+4D	.	4r	.	4f	-nar	2A	ce-	2f	-mai,
+4F	.	4A	Né	4d	l'ar-	.	.	.	.
+2E	.	2G	tua	4e	-me	4B	-tra	1r	.
+.	.	.	.	4e	di	4B	so-	.	.
+2r	.	2A	ce-	2f	Mar-	2c	-nar,	.	.
+=40	=40	=40	=40	=40	=40	=40	=40	=40	=40
+1AA	.	4c	-tra	4e	-te	4r	.	0r	.
+.	.	4c	so-	4E	Più	4e	Né	.	.
+.	.	4c	-nar	4A	s'o-	2e	tua	.	.
+.	.	4A	l'ar-	4c	-da ho-	.	.	.	.
+2GG	.	4B	-me	2B	-mai,	2e	ce-	.	.
+.	.	4B	di	.	.	.	.	.	.
+2AA	.	2c	Mar-	2r	.	4e	-tra	.	.
+.	.	.	.	.	.	4f	so-	.	.
+=41	=41	=41	=41	=41	=41	=41	=41	=41	=41
+4C	.	4G	-te	2r	.	4e	-nar	2g	l'ar-
+4C	.	4E	Più	.	.	4e	l'ar-	.	.
+4C	.	4A	s'o-	4r	.	4c	-me	4e	-me
+4AA	.	4c	-da ho-	4A	l'ar-	4c	di	4f	di
+4BB	.	2B	-mai,	4G	-me	2d	Mar-	2g	Mar-
+4BB	.	.	.	4D	di	.	.	.	.
+2C	.	2r	.	4.G	Mar-	4e	-te	4g	-te
+.	.	.	.	.	.	4e	Più	4cc	Più
+.	.	.	.	8G	-te	.	.	.	.
+=42	=42	=42	=42	=42	=42	=42	=42	=42	=42
+4D	.	2r	.	4d	Più	4f	s'o-	4a	s'o-
+4E	.	.	.	4B	s'o-	4e	-da ho-	4g#X	-da ho-
+4A	Suspensionless Authentic	2A	ma	4c	-da ho-	2e	-mai,	2a	-mai,
+4c	.	.	.	2A	-ma-	.	.	.	.
+2B	.	2E	l'al-	.	.	2r	.	1r	.
+.	.	.	.	8G#XL	.	.	.	.	.
+.	.	.	.	8F#XJ	.	.	.	.	.
+2E	.	2B	-te e	2G#X	-i,	2e	ma	.	.
+=43	=43	=43	=43	=43	=43	=43	=43	=43	=43
+1.A	Abandoned Authentic	1c	chia-	2r	.	2.e	l'al-	2r	.
+.	.	.	.	2A	ma	.	.	2e	ma
+.	.	.	.	.	.	4e	-te e	.	.
+.	.	1A	-re	2e	l'al-	2c	chia-	2.a	l'al-
+2AA	.	.	.	2c	-te e	2e	-re	.	.
+.	.	.	.	.	.	.	.	4a	-te e
+=44	=44	=44	=44	=44	=44	=44	=44	=44	=44
+2E	.	1G	glo-	2B	chia-	0g	glo-	2b	chia-
+2C	.	.	.	2e	-re	.	.	2cc	-re
+1C	.	1G	-rie,	1e	glo-	.	.	[1cc	glo-
+=45	=45	=45	=45	=45	=45	=45	=45	=45	=45
+1GG	.	2r	.	0d	-rie,	1g	-rie,	2cc]	.
+.	.	2.G	E i	.	.	.	.	4b	.
+.	.	.	.	.	.	.	.	4a	.
+2r	.	.	.	.	.	2r	.	2b	.
+.	.	4G	di-	.	.	.	.	.	.
+4.G	.	2B	-vin	.	.	4.d	E i	2b	-rie,
+8G	.	.	.	.	.	8d	di-	.	.
+=46	=46	=46	=46	=46	=46	=46	=46	=46	=46
+4E	Evaded/Abandoned Authentic	4.c	pre-	0r	.	4g	-vin	0r	.
+2A	.	.	.	.	.	2e	pre-	.	.
+.	.	8c	-gi	.	.	.	.	.	.
+.	.	4c	no-	.	.	.	.	.	.
+4F	.	4d	-stri e	.	.	4f	-gi	.	.
+4E	.	2e	di	.	.	4g	no-	.	.
+4C	.	.	.	.	.	4g	-stri e	.	.
+4E	.	4c	co-	.	.	4g	di	.	.
+4F	.	[4c	-ste-	.	.	4f	co-	.	.
+=47	=47	=47	=47	=47	=47	=47	=47	=47	=47
+2G	.	4c]	.	2r	.	2d	-ste-	2r	.
+.	.	4B	.	.	.	.	.	.	.
+2C	Authentic	2c	-i,	4.G	E i	4e	i, e	4.g	E i
+.	.	.	.	.	.	4e	di	.	.
+.	.	.	.	8G	di-	.	.	8g	di-
+1r	.	2r	.	4A	-vin	2c	co-	4e	-vin
+.	.	.	.	2F	pre-	.	.	2a	pre-
+.	.	2A	e	.	.	2d	-ste-	.	.
+.	.	.	.	4D	-gi	.	.	4f	-gi
+=48	=48	=48	=48	=48	=48	=48	=48	=48	=48
+0r	.	2c	di	4A	no-	2.e	.	4e	no-
+.	.	.	.	4A	-stri e	.	.	4c	-stri e
+.	.	4c	co-	4A	di	.	.	4e	di
+.	.	2c	-ste-	4A	co-	8dL	.	4f	co-
+.	.	.	.	.	.	8cJ	.	.	.
+.	.	.	.	2G	-ste-	2d	.	2g	-ste-
+.	.	4B	.	.	.	.	.	.	.
+.	Authentic	2c	-i,	2C	-i.	2e	-i.	2g	-i.
+=49	=49	=49	=49	=49	=49	=49	=49	=49	=49
+1AA	.	2r	.	0r	.	2r	.	0r	.
+.	.	2c	Co-	.	.	2e	Co-	.	.
+2C	.	2c	-sì	.	.	2e	-sì	.	.
+2D	.	2A	con-	.	.	2f	con-	.	.
+=50	=50	=50	=50	=50	=50	=50	=50	=50	=50
+4E	.	2G	-vien	2r	.	4e	-vien	0r	.
+4C	.	.	.	.	.	4e	che	.	.
+4C	.	4r	.	2E	Co-	4g	ne	.	.
+4C	.	4.G	che	.	.	4e	l'al-	.	.
+4BB	.	.	.	2G	-sì	4d	-trui	.	.
+.	.	8G	ne	.	.	.	.	.	.
+4C	.	4E	l'al-	.	.	4e	vit-	.	.
+2AA	.	4F	-trui	2A	con-	2c	-to-	.	.
+.	.	4E	vit-	.	.	.	.	.	.
+=51	=51	=51	=51	=51	=51	=51	=51	=51	=51
+2GG	.	2G	-to-	2B	-vien	2d	-rie,	2r	.
+2r	.	2D	-rie,	2d	che	2f	Co-	2a	Che
+2AA	.	2r	.	4c	ne	2e	-sì	4a	ne
+.	.	.	.	4c	l'al-	.	.	4a	l'al-
+2C	.	2E	Co-	4c	-trui	2e	con-	4g	-trui
+.	.	.	.	4c	vit-	.	.	4a	vit-
+=52	=52	=52	=52	=52	=52	=52	=52	=52	=52
+2D	.	4F	-sì	2A	-to-	4.d	-vien	2f	-to-
+.	.	4D	con-	.	.	.	.	.	.
+.	.	.	.	.	.	8c	.	.	.
+4E	.	4G	-vien	4G	-rie,	4B	.	2e	-rie,
+4C	.	4G	che	2E	che	4c	che	.	.
+4C	.	4G	ne	.	.	4c	ne	2e	Co-
+4C	.	4E	l'al-	2G	ne	4c	l'al-	.	.
+4BB	.	4D	-trui	.	.	4d	-trui	2g	-sì
+4C	.	4E	vit-	4G	l'al-	4c	vit-	.	.
+=53	=53	=53	=53	=53	=53	=53	=53	=53	=53
+2AA	.	2C	-to-	4F	-trui	2c	-to-	2a	con-
+.	.	.	.	4E	vit-	.	.	.	.
+2GG	.	2D	-rie	2G	-to-	2B	-rie	2b	-vien,
+1G	Suspensionless Abandoned Authentic	1r	.	1C	-rie	1e	Can-	2r	.
+.	.	.	.	.	.	.	.	2cc	Can-
+=54	=54	=54	=54	=54	=54	=54	=54	=54	=54
+2F	.	0r	.	0r	.	2d	-ti	2a	-ti
+2E	.	.	.	.	.	2e	mia	2g	mia
+2A	.	.	.	.	.	2c	ser-	2e	ser-
+4G	.	.	.	.	.	2d	-vi-	4g	-vi-
+[4F	.	.	.	.	.	.	.	[4a	tu-
+=55	=55	=55	=55	=55	=55	=55	=55	=55	=55
+4F]	.	1r	.	2r	.	4.c	-tu-	8a]	.
+.	.	.	.	.	.	.	.	8a	-te e i
+4E	.	.	.	.	.	.	.	4g	lac-
+.	.	.	.	.	.	8B	-te e i	.	.
+4D	.	.	.	4r	.	4d	lac-	4f	-ci
+4C	.	.	.	2c	E	4G	-ci	2e	mie-
+2F	.	2r	.	.	.	2A	mie-	.	.
+.	.	.	.	2A	tes-	.	.	4d	.
+2E	.	4r	.	.	.	2B	-i	2e	-i
+.	.	4E	E	4G#i	-sa	.	.	.	.
+=56	=56	=56	=56	=56	=56	=56	=56	=56	=56
+0r	Abandoned Authentic	2e	tes-	1.A	de	4r	.	2r	.
+.	.	.	.	.	.	4c	E	.	.
+.	.	2c	-sa	.	.	1e	tes-	4r	.
+.	.	.	.	.	.	.	.	2cc	E
+.	.	2c	de	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	2a	tes-
+.	.	2B	miei	2E	miei	2e	-sa	.	.
+.	.	.	.	.	.	.	.	4g#i	-sa
+=57	=57	=57	=57	=57	=57	=57	=57	=57	=57
+0r	Authentic	4c	dan-	1A	dan-	2e	de	8aL	de
+.	.	.	.	.	.	.	.	8bJ	.
+.	.	2e	-n'hi-	.	.	.	.	2cc	.
+.	.	.	.	.	.	2f	miei	.	.
+.	.	2d	-sto-	.	.	.	.	4a	miei
+.	.	.	.	2A	-n'hi-	2e	dan-	2a	dan-
+.	.	4c#i	-ria in	.	.	.	.	.	.
+.	Authentic	2d	car-	[2D	-sto-	2f	-n'hi-	2a	-n'hi-
+=58	=58	=58	=58	=58	=58	=58	=58	=58	=58
+0r	.	0A	-te,	2D]	.	2f	-sto-	2d	-sto-
+.	.	.	.	2C#X	-ria in	2e	-ria in	2e	-ria in
+.	.	.	.	1D	car-	1d	car-	1f	car-
+=59	=59	=59	=59	=59	=59	=59	=59	=59	=59
+2r	Suspensionless Phrygian	2r	.	0E	-te,	2B	-te,	1e	-te,
+4r	.	2G	E	.	.	4r	.	.	.
+2C	.	.	.	.	.	4c	E	.	.
+.	.	2A	tes-	.	.	2c	tes-	2r	.
+2AA	.	.	.	.	.	.	.	.	.
+.	.	2B	-sa	.	.	2B	-sa	2e	E
+4GG	(G#?)	.	.	.	.	.	.	.	.
+=60	=60	=60	=60	=60	=60	=60	=60	=60	=60
+1.AA	Clausula Vera	2.c	de	2r	.	1A	de	2e	tes-
+.	.	.	.	4r	.	.	.	2e	-sa
+.	.	4A	miei	2c	E	.	.	.	.
+.	.	2c	dan-	.	.	2e	miei	2a	de
+.	.	.	.	2A	tes-	.	.	.	.
+2E	.	2B	-n'hi-	.	.	[2e	dan-	2b	miei
+.	.	.	.	4G	-sa	.	.	.	.
+=61	=61	=61	=61	=61	=61	=61	=61	=61	=61
+1BB	.	1.B	-sto-	2.F#X	de	2e]	.	1b	dan-
+.	.	.	.	.	.	2d#X	-n'hi-	.	.
+.	.	.	.	4F#X	miei	.	.	.	.
+2E	Authentic	.	.	2G#X	dan-	[1e	-sto-	2b	-n'hi-
+[2AA	.	2A	-ria in	2A	-n'hi-	.	.	2cc	-sto-
+=62	=62	=62	=62	=62	=62	=62	=62	=62	=62
+2AA]	.	1.E	car-	2c	-sto-	2e]	.	2a	-ria in
+2GG#X	.	.	.	2B	-ria in	2e	-ria in	2.b	car-
+1AA	.	.	.	1c	car-	1e	car-	.	.
+.	.	.	.	.	.	.	.	8aL	.
+.	.	.	.	.	.	.	.	8gJ	.
+.	.	[2A	.	.	.	.	.	2a	.
+=63	=63	=63	=63	=63	=63	=63	=63	=63	=63
+[0El	Phrygian Clausula Vera (to B)	2A]	.	[0Bl	-te.	[0el	-te.	[0bl	-te.
+.	.	4G#X	.	.	.	.	.	.	.
+.	.	4F#X	.	.	.	.	.	.	.
+.	(Purely ornamental suspension)	1G#X	.	.	.	.	.	.	.
+=64	=64	=64	=64	=64	=64	=64	=64	=64	=64
+0E]	.	0G#Xl	-te.	0B]	.	0e]	.	0b]	.
+==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [*]
+!!!YEM: Costanzo Porta, "Stavasi Amor quasi in suo regno assiso" 1573 (Sam 0038a; 21 Oct 2018) Tasso in Music Project (http://www.tassomusic.org) Copyright 2018 Emiliano Ricciardi
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2018
+!!!EED: Donnelly, Daniel
+!!!EEV: 2018/10/28
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2018/10/28 and edited by Craig Stuart Sapp
+!!@@BEGIN:	VERSEDATA
+!!@SOLERTI:	38
+!!@CATALOGNUM:	Trm0038
+!!@LAST_MODIFIED: 2020/07/12
+!!@TITLE:		Stavasi Amor quasi in regno assiso
+!!@GENRE:		sonetto
+!!@MANUSRC:	Amz, Ber, Brn, C, Ts<sub>1</sub>, V<sub>8</sub>, V<sub>13/TS1</sub>
+!!@PRINTSRC:	4, 8, 9, 11, 12, 13, 15, 20, 24, 29, 33, 67, 85, 87, 169
+!!@@BEGIN:	VERSES
+!!@ABOUTIT:	Dice d'aver veduto Amor ne gli occhi de la sua donna, il quale gli aveva comandato che non cantasse più le vittorie d'altrui ma quelle di lei e la sua propria servitù.
+!!@ABOUTEN:	He says to have seen in the eyes of his lady Love, who had ordered him not to sing anymore others' victories but [to sing] her [victories] and his servitude.
+!!@EDITION_TITLE: Le Rime di Torquato Tasso
+!!@EDITION_LOC:	Bologna
+!!@EDITION_PUB:	Romagnoli-Dall’Acqua
+!!@EDITION_DATE:  1898-1902
+!!@EDITION_VOL:	2
+!!@EDITION_PAGE:  57
+!!@TRANSLATOR:	Emiliano Ricciardi and Amyrose McCue Gill
+!!@VERSE:
+!!	Stavasi Amor quasi in suo regno assiso
+!!	Nel seren di due luci ardenti ed alme,
+!!	Mille famose insegne e mille palme
+!!	Spiegando in un sereno e chiaro viso;
+!!@VERSE:
+!!	Quando rivolto à me, ch'intento e fiso
+!!	Mirava le sue ricche e care salme: &mdash;
+!!	Or canta &mdash; disse &mdash; come i cori e l'alme
+!!	E 'l tuo medesmo ancora abbia conquiso;
+!!@VERSE:
+!!	Né s'oda risonar l'arme di Marte
+!!	La voce tua, ma l'alta e chiara gloria,
+!!	E i divin pregi nostri e di costei. &mdash;
+!!@VERSE:
+!!	Così addivien che ne l'altrui vittoria
+!!	Canti mia servitute e i lacci miei
+!!	E tessa de gli affanni istorie in carte.
+!!@TVERSE:
+!!	Love, as if in his reign, was seated
+!!	In the calm of two passionate eyes and souls;
+!!	Thousands of famous emblems and thousands of trophies
+!!	Deploying in a calm and clear face;
+!!@TVERSE:
+!!	When addressed to me, who intently and fixedly
+!!	Gazed at his lavish and dear armours:
+!!	“Now sing,” he said, “[of] how hearts and souls
+!!	And yours as well [Love] has already conquered;
+!!@TVERSE:
+!!	Nor permit your voice to sing the weapons of Mars,
+!!	But noble and illustrious praise [of Love],
+!!	And the divine prayers of us and of her.”
+!!@TVERSE:
+!!	Thus it comes to pass that, through others’ victory,
+!!	I sing [of] my servitude and [of] my bonds
+!!	And weave from the[se] troubles tales in paper.
+!!@@END:		VERSES
+!!@OTHER_CRIT_ED:   Torquato Tasso, <i>Rime d’amore (secondo il codice
+!!		Chigiano L VIII 302)</i>, eds. Franco Gavazzeni and
+!!		Vercingetorige Martignone, vol. 4 of <i>Edizione
+!!		Nazionale delle opere di Torquato Tasso</i>
+!!		(Alessandria: Edizioni Dell’Orso, 2004), 28.
+!!@ATTRIBUTION_ABOUT:	Secure
+!!		<br>
+!!		Among other authoritative sources (see Literary
+!!		Sources), this poem appears in the autograph Chigiano
+!!		L.VIII.302 (Biblioteca Vaticana, Rome), compiled
+!!		around 1584&ndash;85.
+!!@DATING:
+!!@DEDICATEE:	Bendidio, Lucrezia
+!!@COMMENTARY:
+!!@@END:		VERSEDATA
+!!@@BEGIN:	SETTING
+!!@CATALOGNUM:	Trm0038a
+!!@RIMETITLE:	Stavasi Amor quasi in regno assiso
+!!@SOLERTI:	38
+!!@COMPOSER:	Porta, Costanzo
+!!@PRINCEPSTITLE:	Il terzo libro de madrigali a cinque voci
+!!@PRINCEPSLOC:	Venetia
+!!@NORMLOC:	Venice
+!!@NORMPUB:	Heirs of Gardano
+!!@NORMPUBSHORT:	Gardano
+!!@PRINCEPSPUB:	Figliuoli di Gardano
+!!@PRINCEPSYEAR:	1573
+!!@PRINCEPSRISM:	P 5189
+!!@REPRINTS:	
+!!@OVOICES:	5
+!!@EXTANTVOICES:	5
+!!@PARTBOOKS:	
+!!@EXTPARTBOOKS:	
+!!@OCLEFS:	C1,C3,C4,C4,F4
+!!@OMENSURATION:	Cut-C
+!!@OKEYSIG:	-
+!!@FINAL:	(A)E
+!!@TIMPEDITOR:	Donnelly, Daniel
+!!@NOTE:		
+!!@@END:		SETTING
