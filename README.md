@@ -2,6 +2,12 @@ This repo contains Tasso compositions with cadential analysis included. This is 
 
 ## Links to annotated scores in VHV
 
+1573:
+(Pordenon, Al vostro dolce azzurro)[https://verovio.humdrum.org/?file=https://github.com/alexandermorgan/Tasso_Analyses/blob/main/Analyzed_pieces/1573_Pordenon_Al%20vostro%20dolce%20azzurro.krn]
+(Porta, Del puro lume onde i celesti giri)[https://verovio.humdrum.org/?file=https://github.com/alexandermorgan/Tasso_Analyses/blob/main/Analyzed_pieces/1573_Porta_Del%20puro%20lume%20onde%20i%20celesti%20giri.krn]
+(Porta, Stavasi Amor quasi in regno assiso)[https://verovio.humdrum.org/?file=https://github.com/alexandermorgan/Tasso_Analyses/blob/main/Analyzed_pieces/1573_Porta_Stavasi%20Amor%20quasi%20in%20regno%20assiso.krn]
+(Vinci, Tarquinia, se rimiri)[https://verovio.humdrum.org/?file=https://github.com/alexandermorgan/Tasso_Analyses/blob/main/Analyzed_pieces/1573_Vinci_Tarquinia%2C%20se%20rimiri]
+
 ## Cadential Observations about this Style
 
 This style's approach to cadences is characterized by a rich pallet of techniques to diminish the rhetorical weight of cadences. Despite having frequent cadential events, almost all of the cadences are adulterated in some way to maintain a lighter flow in the musical syntax. While cadential evasion and abandonment had already been in use for well over a century, this style elevates those techniques to a new level of refinement and sophistication.
